@@ -1,4 +1,4 @@
-public class Main {
+public class ejercicio1 {
     public static void main(String[] args) {
         int diasEnUnAnio = 365;
         byte horasEnUnDia = 24;
